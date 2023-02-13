@@ -1,0 +1,1502 @@
+body{
+    overflow-x: hidden;
+}
+#book{
+    background-color: white;
+}
+#title{
+    background-color: white;
+    padding:20px 9%;
+}
+#about{
+    background-color: #fff9f3;
+   
+}
+#menu{
+    background-color: white;
+    text-align:center;
+}
+#adver{
+    background-color:#FF7629;
+    
+}
+#article{
+    padding:0% 5%;
+    background-color:#fff9f3;
+    display:block;
+   
+}
+.card-subtitle{
+    color:black;
+}
+h6.cpu{
+    font-size:20px;
+    color:black;
+}
+.exp{
+    color:#FF7629;
+}
+.in{
+    border-radius: 25%;
+}
+.card.c{
+  float:right;
+  position:relative;
+  bottom:300px;
+  right:120px;  
+}
+.g{
+    padding:0px 70% 0px 0px;
+}
+
+.l{
+    float:left;
+    margin:0px 1% 0px 0px;
+}
+.con{
+    padding:16% 10%;
+}
+.cen{
+    text-align: center;
+}
+#carou{
+    background-color: white;
+    
+    padding-top:160px;
+}
+.container{
+  padding:0px 6%; 
+}
+.cd{
+    
+}
+
+.us{
+    font-size:16px;
+    font-family: 'DM Sans', sans-serif;
+    color:#727272;
+}
+.sta{
+    width:15%;
+}
+.tu{
+    margin-bottom:40px;
+}
+.y{
+    font-size:32px;
+    color:#000000;
+}
+.bu{
+    width:22%;
+    position:relative;
+    bottom:775px;
+    left:770px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.blog{
+    width:45.6%;
+    height:60%;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    position:relative;
+    bottom:10px;
+}
+.backs{
+    background-color: white;
+    position:relative;
+    bottom:260px;
+    left:60px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.bo{
+    width:23%;
+    margin-left:5%;
+    position:relative;
+    display:inline;
+    bottom:130px;
+    right:7px;
+
+}
+.lor{
+    
+    margin-left:370px;
+}
+.star{
+    width:30%;
+}
+.uv{
+    display:inline;
+}
+.cn{
+    padding:14% 13% 0% 13%; 
+ 
+}
+.testi{
+    padding:0px 16%;
+}
+.lady{
+    width:7%;
+    border-radius: 50%; 
+    float:left;
+    margin:0px 1% 0px 0%;
+}
+.e{
+    color:white;
+    font-size:16px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight:bold;
+    margin-bottom:28px;
+    padding-right:0px;
+}
+.qt{
+    font-size:38px;
+    color:#ffffff;
+    padding-bottom:42px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight:bold;
+}
+.q{
+    padding-bottom:8px;
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #080208;
+    font-size: 15px;
+    background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    border: solid #cccccc 0.5px;
+    text-decoration: none;
+    margin:0px 1.5%;
+    font-weight:bold;
+  }
+  .bn{
+    text-align:center;
+    padding-top:3%;
+  }
+  .ce{
+    font-size:16px;
+  }
+  
+  /* .btn:hover {
+    background: #dfe9f0;
+    text-decoration: none;
+  } */
+  .yellow{
+    background-color: #ff7629;
+    color:white;
+    border-style:none;
+    margin-right:28px;
+  }
+  .fg{
+    position:relative;
+    bottom:780px;
+    left:780px;
+    background-color: white;
+    /* margin-right:840px; */
+   border-bottom-left-radius: 50px;
+   border-bottom-right-radius: 50px;
+   padding:1%;
+   margin-top:8px;
+   width:22%;
+   /* position:relative;
+   bottom:25px;
+   left:10px; */
+  }
+  .nav-item{
+    font-size:20px;
+    margin:0px 2%;
+    font-family: 'DM Sans', sans-serif;
+  }
+  .navbar{
+    color:#696969;
+    padding-bottom:10%;
+  }
+  h1{
+    font-size: 50px;
+  }
+  .t{
+    color:#ff7629;
+    margin-bottom:20px;
+  }
+  .L{
+    padding-bottom:60px;
+  }
+  .u{
+    padding:0px 7% 0px 0px;
+    font-size:18px;
+    color:#757575;
+    margin-bottom:15px;
+    font-family: 'DM Sans', sans-serif;
+  }
+  .o{
+    color:#000000;
+    text-align:center;
+    font-size:21px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight:bold;
+  }
+  .burger{
+    display:flex;
+    width:430px;
+    margin-right:260px;
+    border-radius: 12px; 
+    position:absolute;
+    top:158px;
+    z-index:1;
+    right:30px;
+
+  }
+  .i{
+    margin:0px 2%;
+    padding:0px;
+    width:12%;
+  }
+  .w{
+    padding-bottom:40px;
+  }
+  .brow{
+    font-size:24px;
+    font-family: 'DM Sans', sans-serif;
+    text-align:center;
+    margin-top:130px;
+    font-weight:bold;
+  }
+  .browse{
+    padding-top:150px;
+    padding-bottom:30px;
+  }
+  .orange{
+   width:550px;
+   height:505px;
+   position:relative;
+   bottom:80px;
+   margin-left:213px;
+   
+   }
+   .adv{
+    text-align:center;
+   }
+   .card.cu{
+    text-align:center;
+    width:120px;
+    border-radius: 6%;
+    width:100rem;
+   }
+   /* .card:hover{
+    cursor:pointer;
+    width:30%;
+    background:#ff7629;
+   } */
+   .card-text{
+    text-align: left;
+   }
+  .tr{
+    display:flex;
+ flex-direction:row;
+ justify-content: space-around;
+ 
+  }
+  .abo{
+    width:460px;
+    border-radius: 30px; 
+    float:left;
+    position:relative;
+    /* bottom:300px; */
+    bottom:80px;
+  }
+  .btnn{
+    text-align:center;
+  }
+  .card.cl{
+    padding:1%;
+    border-radius: 25px;
+  }
+  .arrowl{
+    width:4%;
+position:relative;
+left:250px;
+top:160px;
+background:#FF7629;
+border-radius:50px;
+  }
+  .arrowr{
+    width:5%;
+    position:relative;
+left:820px;
+bottom:160px;
+background:#FF7629;
+border-radius:50px;
+  }
+  .p-Home.Flex27{
+    padding:9% 8%;
+  }
+  @media screen and (max-width: 991px)
+{
+    .p-Home.Flex29.bpt{
+        justify-content: flex-start;
+        align-items: center;
+        align-content: stretch;
+        flex-direction: column;
+        
+    }
+    
+    
+}
+.p-Home.Flex29.bpt {
+    display: flex;
+    background-color: #ffffff;
+    position:relative;
+    bottom:190px;
+    left:160px;
+    flex-flow: wrap;
+    flex-direction: column;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 25px;
+    row-gap:20px;
+    font-family: DM Sans;
+    font-weight: 500;
+    margin-right:850px;
+    /* box-sizing: border-box; */
+    
+}
+ .p-Home.Image20.bpt{
+    float:left;
+    padding:0px 3% 0px 0px;
+    
+}
+.p-Home.Image25.bpt{
+    float:left;
+    padding:0px 3% 0px 0px;
+}
+.p-Home.Image22.bpt{
+    float:left;
+    padding:0px 3% 0px 0px;
+}
+.p-Home.Flex35.bpt{
+    padding-bottom:12%;
+}
+.p-Home.Flex30.bpt{
+   padding-bottom:12%;
+} 
+.burg{
+    width:250px;
+    height:250px;
+    border-radius: 30px;
+    padding-bottom:5px;
+}
+/* .p-Home.Flex28.bpt {
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-start;
+    padding:0px;
+    flex-direction: column;
+    row-gap: 25px;
+    width: 50%;
+    /* position:relative;
+    margin:0px 100px 60px 760px; */
+    
+    /* bottom:950px;
+    left:760px; */
+    
+
+.p-Home.TextBox45.bpt{
+    padding:0px 15% 0px 0px;
+}
+.p-Home.TextBox44.bpt{
+    font-size:32px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight:bold;
+}
+.p-Home.TextBox45.bpt{
+    font-size:18px;
+    font-family: 'DM Sans', sans-serif;
+    color:#8d8d8d;
+    padding-bottom:5%;
+    padding:0px 20% 5% 0px;
+}
+.p-Home.TextBox46.bpt{
+    font-size:18px;
+    font-family: 'DM Sans', sans-serif;
+    color:#8d8d8d; 
+    padding:0px 17% 0px 0px;
+}
+.p-Home.Button11 {
+    color: #fff;
+    background-color: #FF7629;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    outline: none;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: none;
+    border-color: #1890ff;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    font-family: DM Sans;
+}
+.p-Home.Button12 {
+    color: #000000;
+    background-color: #ffffff;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    outline: none;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #cccccc;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    font-family: DM Sans;
+}
+.text{
+  margin-left:790px;
+  position:relative;
+  bottom:380px;
+}
+.card.abt{
+    position:relative;
+    top:200px;
+    right:200px;
+    
+}
+.p-Home.Flex37.bpt{
+    padding-top:5%;
+}
+.p-Home.Button12.bpt{
+    margin:0px 3% 0px 0px;
+}
+.price{
+position:relative;
+bottom:240px;
+left:130px;
+width:120px;
+height:30px;
+border-radius:10px;
+font-size:20px;
+font-family: 'DM Sans', sans-serif;
+color:#000000;
+font-weight:bold;
+}
+.bs{
+   background-color:#FF7629; 
+   color:white;
+   margin-bottom:200px;
+}
+.bst{
+    
+    color:black;
+    background: #ffffff;
+    border: solid #cccccc 0.5px;
+    margin-bottom:200px;
+}
+.st{
+    color:black;
+    background: #ffffff;
+    border: solid #cccccc 0.5px;
+    margin-bottom:200px; 
+    font-weight:bold;
+}
+.sl{
+    color:white;
+    background: #ff7629;
+    border: solid #ffffff 1px;
+    margin-bottom:200px; 
+    font-weight:bold;
+}
+.tume{
+    padding-bottom:60px;
+}
+.ca{
+    width:85%;
+    height:100%;
+    position:relative;
+    left:129px;
+}
+.back{
+    background-color: white;
+    margin-right:840px;
+   border-bottom-left-radius: 50px;
+   border-bottom-right-radius: 50px;
+   padding:1%;
+   margin-top:8px;
+   position:relative;
+   bottom:25px;
+   
+   
+   
+    
+}
+.blogs{
+    position: relative;
+    left:600px;
+    /* bottom:720px;
+    margin-left:700px; */
+    width:22%;
+    height:60%;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    
+} 
+.p-Home.Flex83 {
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    background-color: #fffefe;
+    row-gap: 10px;
+    border-radius: 35px;
+    padding-top: ;
+    padding-bottom: 20px;
+    }
+.p-Home.Flex84 {
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    background-color: #fffefe;
+    row-gap: 10px;
+    border-radius: 35px;
+    padding-bottom: 20px;
+    align-items: flex-start;
+    }
+.p-Home.Flex71 {
+    display: flex;
+    padding-top: 150px;
+    background-color: #FFF9F3;
+    padding-left: 100px;
+    padding-right: 100px;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+    padding-bottom: 100px;
+    }
+    .p-Home.Flex72 {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: ;
+    padding-bottom: 30px;
+    box-sizing: content-box;
+    }
+    .p-Home.TextBox97 {
+        font-family: DM Sans;
+        font-weight: 500;
+        font-size: 15px;
+        color: #737373;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-right: 10px;
+        }
+        .p-Home.TextBox82 {
+            font-family: DM Sans;
+            font-weight: 700;
+            font-size: 32px;
+            }
+            .p-Home.TextBox83 {
+            ;
+            }
+        .p-Home.TextBox99 {
+            font-family: DM Sans;
+            font-weight: 500;
+            font-size: 15px;
+            color: #737373;
+            padding-left: 20px;
+            padding-top: 20px;
+            padding-right: 10px;
+            }
+            .p-Home.TextBox100 {
+                font-family: DM Sans;
+                font-weight: 700;
+                font-size: 16px;
+                padding-left: 20px;
+                padding-right: 10px;
+                }
+                .p-Home.TextBox96 {
+                    font-family: DM Sans;
+                    font-weight: 700;
+                    font-size: 16px;
+                    padding-left: 20px;
+                    padding-right: 10px;
+                    }
+                .p-Home.TextBox101 {
+                    font-family: DM Sans;
+                    font-weight: 700;
+                    font-size: 16px;
+                    padding-left: 20px;
+                    padding-right: 10px;
+                    }
+                    .p-Home.TextBox102 {
+                    font-family: DM Sans;
+                    font-weight: 500;
+                    font-size: 15px;
+                    color: #737373;
+                    padding-left: 20px;
+                    padding-top: 20px;
+                    padding-right: 10px;
+                    }
+                .p-Home.TextBox103 {
+                    font-family: DM Sans;
+                    font-weight: 500;
+                    font-size: 15px;
+                    color: #737373;
+                    padding-left: 20px;
+                    padding-top: 20px;
+                    padding-right: 10px;
+                    }
+                    .p-Home.TextBox104 {
+                        font-family: DM Sans;
+                        font-weight: 700;
+                        font-size: 16px;
+                        padding-left: 20px;
+                        padding-right: 10px;
+                        }
+    .p-Home.Flex73 {
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 35px;
+    background-color: #ffffff;
+    }
+    .p-Home.TextBox84 {
+        font-family: DM Sans;
+        font-weight: 500;
+        font-size: 15px;
+        color: #8f8f8f;
+        padding-left: 20px;
+        padding-bottom: 30px;
+        padding-right: 10px;
+        }
+    .p-Home.TextBox85 {
+        font-family: DM Sans;
+        font-weight: 500;
+        font-size: 15px;
+        color: #737373;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-right: 10px;
+        }
+        .p-Home.TextBox86 {
+            font-family: DM Sans;
+            font-weight: 700;
+            font-size: 26px;
+            padding-left: 20px;
+            padding-right: 10px;
+            }
+    .p-Home.Flex74 {
+    display: flex;
+    -moz-column-gap: 30px;
+         column-gap: 30px;
+    }
+    .p-Home.Flex75 {
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    background-color: #fffefe;
+    row-gap: 10px;
+    border-radius: 35px;
+    }
+    .p-Home.Flex76 {
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+    row-gap: 30px;
+    }
+    .p-Home.Flex77 {
+    display: flex;
+    -moz-column-gap: 30px;
+         column-gap: 30px;
+    align-items: center;
+    justify-content: center;
+    }
+    .p-Home.Flex81 {
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    background-color: #fffefe;
+    row-gap: 10px;
+    border-radius: 35px;
+    padding-bottom: 20px;
+    }
+    .p-Home.TextBox145 {
+        font-family: DM Sans;
+        font-weight: 400;
+        font-size: 15px;
+        color: #23d12f;
+        }
+        .p-Home.Input9 {
+            box-sizing: border-box;
+            font-variant: tabular-nums;
+            font-feature-settings: tnum, "tnum";
+            padding-top: 11px;
+            padding-left: 15px;
+            padding-bottom: 11px;
+            padding-right: 15px;
+            color: #000000d9;
+            font-size: 14px;
+            background-color: #fff;
+            background-image: none;
+            border-width: 1px;
+            border-style: solid;
+            border-color: #d9d9d9;
+            border-radius: 20px;
+            height: 180px;
+            align-self: auto;
+            text-align: center;
+            }
+            .p-Home.Flex100 {
+                display: flex;
+                flex-direction: column;
+                row-gap: 20px;
+                }
+                .p-Home.Flex101 {
+                    display: flex;
+                    flex-direction: column;
+                    row-gap: 20px;
+                    }
+                    .p-Home.Flex104 {
+                    display: flex;
+                    -moz-column-gap: 20px;
+                         column-gap: 20px;
+                    }
+                    .p-Home.Flex102 {
+                    display: flex;
+                    flex-direction: column;
+                    row-gap: 20px;
+                    }
+                    .p-Home.Flex103 {
+                    display: flex;
+                    flex-direction: column;
+                    row-gap: 20px;
+                    }
+                    .p-Home.Flex107 {
+                    display: flex;
+                    -moz-column-gap: 20px;
+                         column-gap: 20px;
+                    }
+                    .p-Home.Flex105 {
+                    display: flex;
+                    flex-direction: column;
+                    row-gap: 20px;
+                    }
+                    .p-Home.Flex106 {
+                    display: flex;
+                    flex-direction: column;
+                    row-gap: 20px;
+                    }
+                    .p-Home.Flex108 {
+                    display: flex;
+                    flex-direction: column;
+                    row-gap: 20px;
+                    }
+                    .p-Home.Flex93 {
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        width: 50%;
+                        -moz-column-gap: 25px;
+                             column-gap: 25px;
+                        }
+                        .p-Home.Flex94 {
+                        display: flex;
+                        align-items: center;
+                        width: 50%;
+                        -moz-column-gap: 19px;
+                             column-gap: 19px;
+                        }
+                        .p-Home.Flex95 {
+                        display: flex;
+                        align-items: center;
+                        width: 50%;
+                        -moz-column-gap: 21px;
+                             column-gap: 21px;
+                        }
+                        .p-Home.Flex92 {
+                        display: flex;
+                        background-color: #FF7629;
+                        align-items: flex-start;
+                        padding-top: 100px;
+                        padding-bottom: 100px;
+                        width: 50%;
+                        }
+        .p-Home.TextBox120 {
+            ;
+            }
+            .p-Home.Flex110 {
+                display: flex;
+                background-color: #FFF9F3;
+                padding-left: 100px;
+                padding-right: 100px;
+                align-items: center;
+                padding-top: 150px;
+                flex-direction: column;
+                padding-bottom: 150px;
+                }
+                .p-Home.Flex112 {
+                    display: flex;
+                    width: 100%;
+                    align-items: center;
+                    justify-content: space-between;
+                    padding-top: ;
+                    padding-bottom: 30px;
+                    padding-left: ;
+                    }
+                    .p-Home.Flex111 {
+                    display: flex;
+                    padding-top: 15px;
+                    padding-bottom: 15px;
+                    padding-left: 30px;
+                    padding-right: 30px;
+                    border-radius: 35px;
+                    background-color: #FF7629;
+                    }
+                    .p-Home.Flex113 {
+                    display: flex;
+                    -moz-column-gap: 30px;
+                         column-gap: 30px;
+                    }
+                    .p-Home.Image58 {
+                        width: 300px;
+                        height: 300px;
+                        border-radius: 35px;
+                        }
+                        .p-Home.Image59 {
+                        width: 300px;
+                        height: 300px;
+                        border-radius: 35px;
+                        }
+                        .p-Home.Image60 {
+                        width: 145px;
+                        height: 145px;
+                        border-radius: 25px;
+                        }
+                        .p-Home.Image61 {
+                        width: 145px;
+                        height: 145px;
+                        border-radius: 25px;
+                        }
+                        .p-Home.Image62 {
+                        width: 145px;
+                        height: 145px;
+                        border-radius: 25px;
+                        }
+                        .p-Home.Image63 {
+                        width: 145px;
+                        height: 145px;
+                        border-radius: 25px;
+                        }
+                        .p-Home.Image64 {
+                        ;
+                        }
+                        .p-Home.TextBox122 {
+                            font-family: DM Sans;
+                            font-weight: 700;
+                            font-size: 32px;
+                            }
+                            .p-Home.Flex115 {
+                                display: flex;
+                                -moz-column-gap: 20px;
+                                     column-gap: 20px;
+                                }
+                                .p-Home.Flex116 {
+                                display: flex;
+                                -moz-column-gap: 20px;
+                                     column-gap: 20px;
+                                }
+                                .p-Home.Flex113 {
+                                    display: flex;
+                                    -moz-column-gap: 30px;
+                                         column-gap: 30px;
+                                    }
+                                    .p-Home.Flex114 {
+                                    display: flex;
+                                    flex-direction: column;
+                                    row-gap: 20px;
+                                    }
+                                    
+    .p-Home.Flex82 {
+        display: flex;
+        width: 40%;
+        flex-direction: column;
+        background-color: #fffefe;
+        row-gap: 10px;
+        border-radius: 35px;
+        padding-bottom: 20px;
+    }
+    .p-Home.Image52 {
+        width: 100%;
+        border-top-left-radius: 35px;
+        border-top-right-radius: 35px;
+        }
+        .fs {
+            width: 100%;
+            border-top-left-radius: 35px;
+            border-top-right-radius: 35px;
+            }
+    .p-Home.Flex85 {
+        display: flex;
+        -moz-column-gap: 30px;
+             column-gap: 30px;
+        align-items: center;
+        justify-content: center;
+    }
+    .p-Home.Image51.bpt {
+        width: 100%;
+        border-top-left-radius: 35px;
+        border-top-right-radius: 35px;
+        }
+        
+            
+                .p-Home.Image45 {
+                    width: 100%;
+                    border-top-left-radius: 35px;
+                    border-top-right-radius: 35px;
+                    height: 70%;
+                    }
+                    .p-Home.Image51 {
+                        width: 100%;
+                        border-top-left-radius: 35px;
+                        border-top-right-radius: 35px;
+                        }
+                        .p-Home.TextBox103 {
+                            font-family: DM Sans;
+                            font-weight: 500;
+                            font-size: 15px;
+                            color: #737373;
+                            padding-left: 20px;
+                            padding-top: 20px;
+                            padding-right: 10px;
+                            }
+                            .p-Home.TextBox104 {
+                            font-family: DM Sans;
+                            font-weight: 700;
+                            font-size: 16px;
+                            padding-left: 20px;
+                            padding-right: 10px;
+                            }
+                            .p-Home.TextBox101 {
+                                font-family: DM Sans;
+                                font-weight: 700;
+                                font-size: 16px;
+                                padding-left: 20px;
+                                padding-right: 10px;
+                                }
+                                .p-Home.TextBox102 {
+                                font-family: DM Sans;
+                                font-weight: 500;
+                                font-size: 15px;
+                                color: #737373;
+                                padding-left: 20px;
+                                padding-top: 20px;
+                                padding-right: 10px;
+                                }
+                                .p-Home.Image52 {
+                                    width: 100%;
+                                    border-top-left-radius: 35px;
+                                    border-top-right-radius: 35px;
+                                    }
+                                    .p-Home.Image53 {
+                                    width: 100%;
+                                    border-top-left-radius: 35px;
+                                    border-top-right-radius: 35px;
+                                    }
+                                    .p-Home.Flex77 {
+                                        display: flex;
+-moz-column-gap: 30px;
+     column-gap: 30px;
+align-items: center;
+justify-content: center;
+                                        }
+                                        .p-Home.Image49 {
+                                            width: 100%;
+                                            border-top-left-radius: 35px;
+                                            border-top-right-radius: 35px;
+                                            }
+                                            .p-Home.Flex91 {
+                                                display: flex;
+                                                flex-direction: column;
+                                                align-items: flex-start;
+                                                justify-content: center;
+                                                row-gap: 20px;
+                                                padding-top: 100px;
+                                                padding-left: 150px;
+                                                padding-bottom: 100px;
+                                                width: 50%;
+                                                }
+                                                .p-Home.TextBox105 {
+                                                    font-family: DM Sans;
+                                                    font-weight: 700;
+                                                    font-size: 34px;
+                                                    align-self: auto;
+                                                    }
+                                                    .p-Home.TextBox106 {
+                                                        width: 50%;
+                                                        font-family: DM Sans;
+                                                        font-weight: 500;
+                                                        font-size: 16px;
+                                                        color: #727171;
+                                                        }
+                                                        .p-Home.TextBox107 {
+                                                            font-family: DM Sans;
+                                                            font-weight: 500;
+                                                            color: #717070;
+                                                            }
+                                                            .p-Home.TextBox111 {
+                                                                font-family: DM Sans;
+                                                                font-weight: 500;
+                                                                color: #717070;
+                                                                }
+                                                                .p-Home.TextBox112 {
+                                                                    font-family: DM Sans;
+                                                                    font-weight: 500;
+                                                                    color: #717070;
+                                                                    }
+                                                                    .p-Home.Flex98 {
+                                                                        display: flex;
+                                                                        background-color: #ffffff;
+                                                                        flex-direction: column;
+                                                                        padding-left: 50px;
+                                                                        padding-right: 50px;
+                                                                        padding-top: 80px;
+                                                                        row-gap: 30px;
+                                                                        font-family: DM Sans;
+                                                                        font-weight: 500;
+                                                                        font-size: 18px;
+                                                                        margin-bottom: ;
+                                                                        padding-bottom: 30px;
+                                                                        position: relative;
+                                                                        right: 140px;
+                                                                        border-radius: 40px;
+                                                                        border-style: solid;
+                                                                        border-color: #d9d4d4;
+                                                                        }
+                                                                        .p-Home.Flex92 {
+                                                                            display: flex;
+                                                                            background-color: #FF7629;
+                                                                            align-items: flex-start;
+                                                                            padding-top: 100px;
+                                                                            padding-bottom: 100px;
+                                                                            width: 50%;
+                                                                            }
+                                                                        .p-Home.TextBox116 {
+                                                                            ;
+                                                                            }
+                                                                            .p-Home.TextBox117 {
+                                                                            ;
+                                                                            }
+                                                                        .p-Home.TextBox113 {
+                                                                            padding-left: ;
+                                                                            }
+                                                                            .p-Home.TextBox114 {
+                                                                                ;
+                                                                                }
+                                                                                .p-Home.Input1 {
+                                                                                    box-sizing: border-box;
+                                                                                    font-variant: tabular-nums;
+                                                                                    font-feature-settings: tnum, "tnum";
+                                                                                    padding-top: 11px;
+                                                                                    padding-left: 15px;
+                                                                                    padding-bottom: 11px;
+                                                                                    padding-right: 15px;
+                                                                                    color: #000000d9;
+                                                                                    font-size: 14px;
+                                                                                    background-color: #fff;
+                                                                                    background-image: none;
+                                                                                    border-width: 1px;
+                                                                                    border-style: solid;
+                                                                                    border-color: #d9d9d9;
+                                                                                    border-radius: 20px;
+                                                                                    }
+                                                                                    .p-Home.Input2 {
+                                                                                    box-sizing: border-box;
+                                                                                    font-variant: tabular-nums;
+                                                                                    font-feature-settings: tnum, "tnum";
+                                                                                    padding-top: 11px;
+                                                                                    padding-left: 15px;
+                                                                                    padding-bottom: 11px;
+                                                                                    padding-right: 15px;
+                                                                                    color: #000000d9;
+                                                                                    font-size: 14px;
+                                                                                    background-color: #fff;
+                                                                                    background-image: none;
+                                                                                    border-width: 1px;
+                                                                                    border-style: solid;
+                                                                                    border-color: #d9d9d9;
+                                                                                    border-radius: 20px;
+                                                                                    }
+                                                                                    .p-Home.Input3 {
+                                                                                        box-sizing: border-box;
+                                                                                        font-variant: tabular-nums;
+                                                                                        font-feature-settings: tnum, "tnum";
+                                                                                        padding-top: 11px;
+                                                                                        padding-left: 15px;
+                                                                                        padding-bottom: 11px;
+                                                                                        padding-right: 15px;
+                                                                                        color: #000000d9;
+                                                                                        font-size: 14px;
+                                                                                        background-color: #fff;
+                                                                                        background-image: none;
+                                                                                        border-width: 1px;
+                                                                                        border-style: solid;
+                                                                                        border-color: #d9d9d9;
+                                                                                        border-radius: 20px;
+                                                                                        }
+                                                                                        .p-Home.Input4 {
+                                                                                        box-sizing: border-box;
+                                                                                        font-variant: tabular-nums;
+                                                                                        font-feature-settings: tnum, "tnum";
+                                                                                        padding-top: 11px;
+                                                                                        padding-left: 15px;
+                                                                                        padding-bottom: 11px;
+                                                                                        padding-right: 15px;
+                                                                                        color: #000000d9;
+                                                                                        font-size: 14px;
+                                                                                        background-color: #fff;
+                                                                                        background-image: none;
+                                                                                        border-width: 1px;
+                                                                                        border-style: solid;
+                                                                                        border-color: #d9d9d9;
+                                                                                        border-radius: 20px;
+                                                                                        }
+                                                                                        .p-Home.Input5 {
+                                                                                            box-sizing: border-box;
+                                                                                            font-variant: tabular-nums;
+                                                                                            font-feature-settings: tnum, "tnum";
+                                                                                            padding-top: 11px;
+                                                                                            padding-left: 15px;
+                                                                                            padding-bottom: 11px;
+                                                                                            padding-right: 15px;
+                                                                                            color: #000000d9;
+                                                                                            font-size: 14px;
+                                                                                            background-color: #fff;
+                                                                                            background-image: none;
+                                                                                            border-width: 1px;
+                                                                                            border-style: solid;
+                                                                                            border-color: #d9d9d9;
+                                                                                            border-radius: 20px;
+                                                                                            }
+                                                                                            .p-Home.Input6 {
+                                                                                            box-sizing: border-box;
+                                                                                            font-variant: tabular-nums;
+                                                                                            font-feature-settings: tnum, "tnum";
+                                                                                            padding-top: 11px;
+                                                                                            padding-left: 15px;
+                                                                                            padding-bottom: 11px;
+                                                                                            padding-right: 15px;
+                                                                                            color: #000000d9;
+                                                                                            font-size: 14px;
+                                                                                            background-color: #fff;
+                                                                                            background-image: none;
+                                                                                            border-width: 1px;
+                                                                                            border-style: solid;
+                                                                                            border-color: #d9d9d9;
+                                                                                            border-radius: 20px;
+                                                                                            }
+                                                                                            .p-Home.Button21 {
+                                                                                                color: #fff;
+                                                                                                background-color: #FF7629;
+                                                                                                padding-top: 10px;
+                                                                                                padding-left: 25px;
+                                                                                                padding-bottom: 10px;
+                                                                                                padding-right: 25px;
+                                                                                                font-size: 16px;
+                                                                                                border-radius: 50px;
+                                                                                                outline: none;
+                                                                                                font-weight: 500;
+                                                                                                text-align: center;
+                                                                                                border-width: 1px;
+                                                                                                border-style: none;
+                                                                                                border-color: #1890ff;
+                                                                                                cursor: pointer;
+                                                                                                -webkit-user-select: none;
+                                                                                                   -moz-user-select: none;
+                                                                                                        user-select: none;
+                                                                                                font-family: DM Sans;
+                                                                                                width: 40%;
+                                                                                                }
+                                                                                                .p-Home.Flex91 {
+                                                                                                    display: flex;
+                                                                                                    flex-direction: column;
+                                                                                                    align-items: flex-start;
+                                                                                                    justify-content: center;
+                                                                                                    row-gap: 20px;
+                                                                                                    padding-top: 100px;
+                                                                                                    padding-left: 150px;
+                                                                                                    padding-bottom: 100px;
+                                                                                                    width: 50%;
+                                                                                                    }
+                                                                                                    .p-Home.Flex90 {
+                                                                                                        display: flex;
+                                                                                                        padding-top: ;
+                                                                                                        }
+                                                                                                        .p-Home.Flex99 {
+                                                                                                            display: flex;
+                                                                                                            -moz-column-gap: 20px;
+                                                                                                                 column-gap: 20px;
+                                                                                                            }
+                                                                                                            .p-Home.Flex103 {
+                                                                                                                display: flex;
+                                                                                                                flex-direction: column;
+                                                                                                                row-gap: 20px;
+                                                                                                                }
+                                                                                                                .p-Home.Flex104 {
+                                                                                                                    display: flex;
+                                                                                                                    -moz-column-gap: 20px;
+                                                                                                                         column-gap: 20px;
+                                                                                                                    }
+                                                                                                                    .p-Home.Flex107 {
+                                                                                                                        display: flex;
+                                                                                                                        -moz-column-gap: 20px;
+                                                                                                                             column-gap: 20px;
+                                                                                                                        }
+                                                                                                                        .p-Home.Flex117 {
+                                                                                                                            display: flex;
+                                                                                                                            padding-top: 100px;
+                                                                                                                            padding-left: 150px;
+                                                                                                                            padding-right: 150px;
+                                                                                                                            -moz-column-gap: 40px;
+                                                                                                                                 column-gap: 40px;
+                                                                                                                            padding-bottom: 50px;
+                                                                                                                            justify-content: space-between;
+                                                                                                                            }
+                                                                                                                            .p-Home.Flex118 {
+                                                                                                                                display: flex;
+                                                                                                                                flex-direction: column;
+                                                                                                                                align-items: flex-start;
+                                                                                                                                justify-content: flex-start;
+                                                                                                                                row-gap: 13px;
+                                                                                                                                width: 40%;
+                                                                                                                                }
+                                                                                                                                .p-Home.Flex121 {
+                                                                                                                                display: flex;
+                                                                                                                                -moz-column-gap: 10px;
+                                                                                                                                     column-gap: 10px;
+                                                                                                                                }
+                                                                                                                                .p-Home.Flex119 {
+                                                                                                                                display: flex;
+                                                                                                                                }
+                                                                                                                                .p-Home.Flex125 {
+                                                                                                                                display: flex;
+                                                                                                                                font-family: DM Sans;
+                                                                                                                                font-weight: 500;
+                                                                                                                                font-size: 20px;
+                                                                                                                                align-items: flex-start;
+                                                                                                                                flex-direction: column;
+                                                                                                                                row-gap: 10px;
+                                                                                                                                padding-left: 5px;
+                                                                                                                                padding-right: 5px;
+                                                                                                                                }
+                                                                                                                                .p-Home.Flex127 {
+                                                                                                                                display: flex;
+                                                                                                                                font-family: DM Sans;
+                                                                                                                                font-weight: 500;
+                                                                                                                                font-size: 20px;
+                                                                                                                                align-items: flex-start;
+                                                                                                                                flex-direction: column;
+                                                                                                                                row-gap: 10px;
+                                                                                                                                padding-left: ;
+                                                                                                                                padding-right: 5px;
+                                                                                                                                }
+                                                                                                                                .p-Home.Flex120 {
+                                                                                                                                    display: flex;
+                                                                                                                                    flex-direction: column;
+                                                                                                                                    align-items: flex-start;
+                                                                                                                                    row-gap: 20px;
+                                                                                                                                    }
+                                                                                                                                    .p-Home.Flex124 {
+                                                                                                                                    display: flex;
+                                                                                                                                    flex-direction: column;
+                                                                                                                                    row-gap: 20px;
+                                                                                                                                    }
+                                                                                                                                    .p-Home.Flex122 {
+                                                                                                                                    display: flex;
+                                                                                                                                    -moz-column-gap: 20px;
+                                                                                                                                         column-gap: 20px;
+                                                                                                                                    }
+                                                                                                                                    .p-Home.Flex123 {
+                                                                                                                                    display: flex;
+                                                                                                                                    -moz-column-gap: 20px;
+                                                                                                                                         column-gap: 20px;
+                                                                                                                                    }
+                                                                                                                                    .p-Home.Image70 {
+                                                                                                                                        width: 145px;
+                                                                                                                                        height: 145px;
+                                                                                                                                        border-radius: 25px;
+                                                                                                                                        }
+                                                                                                                                        .p-Home.Image71 {
+                                                                                                                                        width: 145px;
+                                                                                                                                        height: 145px;
+                                                                                                                                        border-radius: 25px;
+                                                                                                                                        }
+                                                                                                                                        .p-Home.Image72 {
+                                                                                                                                        width: 145px;
+                                                                                                                                        height: 145px;
+                                                                                                                                        border-radius: 25px;
+                                                                                                                                        }
+                                                                                                                                        .p-Home.Image73 {
+                                                                                                                                        width: 145px;
+                                                                                                                                        height: 145px;
+                                                                                                                                        border-radius: 25px;
+                                                                                                                                        }
+                                                                                                                                        .p-Home.TextBox125 {
+                                                                                                                                            padding-bottom: 20px;
+                                                                                                                                            padding-right: 40px;
+                                                                                                                                            font-size: 20px;
+                                                                                                                                            }
+                                                                                                                                            .p-Home.TextBox126 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox127 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox128 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox129 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox130 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox131 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox133 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox134 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox135 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox136 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox137 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox138 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox139 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox140 {
+                                                                                                                                                font-size: 16px;
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                color: #7f7c7c;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox141 {
+                                                                                                                                                padding-bottom: 20px;
+                                                                                                                                                padding-right: 40px;
+                                                                                                                                                font-size: 20px;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox124 {
+                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                font-weight: 500;
+                                                                                                                                                font-size: 20px;
+                                                                                                                                                }
+                                                                                                                                                .p-Home.TextBox123 {
+                                                                                                                                                    width: 100%;
+                                                                                                                                                    font-family: DM Sans;
+                                                                                                                                                    font-weight: 500;
+                                                                                                                                                    color: #6a6868;
+                                                                                                                                                    }
+                                                                                                                                                    .p-Home.TextBox124 {
+                                                                                                                                                        font-family: DM Sans;
+                                                                                                                                                        font-weight: 500;
+                                                                                                                                                        font-size: 20px;
+                                                                                                                                                        }
+                                                                                                                                                        .p-Home.Image65 {
+                                                                                                                                                            width: 30px;
+                                                                                                                                                            height: 30px;
+                                                                                                                                                            }
+                                                                                                                                                            .p-Home.Image66 {
+                                                                                                                                                            width: 30px;
+                                                                                                                                                            height: 30px;
+                                                                                                                                                            }
+                                                                                                                                                            .p-Home.Image67 {
+                                                                                                                                                            width: 30px;
+                                                                                                                                                            height: 30px;
+                                                                                                                                                            }
+                                                                                                                                                            .p-Home.Image68 {
+                                                                                                                                                            width: 30px;
+                                                                                                                                                            height: 30px;
+                                                                                                                                                            }
+                                                                                                                                                            .p-Home.Image69 {
+                                                                                                                                                            width: 30px;
+                                                                                                                                                            height: 30px;
+                                                                                                                                                            }
+                                                                                                                                                            .p-Home.Image64 {
+                                                                                                                                                                ;
+                                                                                                                                                                }
+                                                                                                                                                                .p-Home.TextBox123 {
+                                                                                                                                                                width: 100%;
+                                                                                                                                                                font-family: DM Sans;
+                                                                                                                                                                font-weight: 500;
+                                                                                                                                                                color: #6a6868;
+                                                                                                                                                                }
+                                                                                                                     
